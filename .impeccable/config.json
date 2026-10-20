@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "montserrat",
+        "createdAt": "2026-10-20T10:13:19.231Z",
+        "reason": "user confirmed: the user's master spec (BAYOU WELLNESS.pdf, section 2.3) mandates Montserrat for headings"
+      }
+    ]
+  }
+}
