@@ -1,0 +1,16 @@
+node_modules/
+dist/
+temporary screenshots/
+.impeccable/hook.cache.json
+.impeccable/live/
+.impeccable/mocks/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# local design-skill resources dropped into the project folder (not part of the website)
+_skill-files/
+__pycache__/
+*.pyc

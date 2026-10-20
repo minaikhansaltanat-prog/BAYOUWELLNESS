@@ -1,0 +1,22 @@
+[
+  {
+    "_note": "EXAMPLE ONLY. Copy a real, verified partner into partners.json. Entries need status=published, valid lat/lng and verifiedAt to appear on the map.",
+    "id": "loc-0001",
+    "partnerId": "partner-0001",
+    "name": "Example Beauty Studio",
+    "type": "salon",
+    "city": "almaty",
+    "cityLabel": { "kk": "Алматы", "ru": "Алматы", "en": "Almaty", "ko": "알마티" },
+    "address": "Example street 1",
+    "lat": 43.2389,
+    "lng": 76.8897,
+    "phone": "+7 700 000 0000",
+    "hours": "10:00-20:00",
+    "services": ["consultation", "retail"],
+    "categories": ["hair-care", "scalp-care"],
+    "website": "",
+    "status": "published",
+    "verifiedAt": "2026-01-01",
+    "stockUpdatedAt": ""
+  }
+]

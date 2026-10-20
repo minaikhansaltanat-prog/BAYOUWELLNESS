@@ -1,0 +1,38 @@
+{
+  "brand": "BAYOU WELLNESS",
+  "defaultLang": "kk",
+  "langs": ["kk", "ru", "en", "ko"],
+  "currency": { "code": "KZT", "symbol": "₸" },
+  "contact": {
+    "phoneDisplay": "+7 700 386 6632",
+    "phoneTel": "+77003866632",
+    "whatsappNumber": "77003866632"
+  },
+  "analytics": {
+    "ga4": "",
+    "yandexMetrika": "",
+    "debug": false
+  },
+  "tally": {
+    "kk": "Z9j5Ay",
+    "ru": "M1eKZX",
+    "en": "labD2W",
+    "ko": "xVXxbo"
+  },
+  "map": {
+    "provider": "osm",
+    "center": [48.0196, 66.9237],
+    "zoom": 5,
+    "cities": [
+      { "id": "almaty", "lat": 43.2389, "lng": 76.8897, "zoom": 11 },
+      { "id": "astana", "lat": 51.1694, "lng": 71.4491, "zoom": 11 },
+      { "id": "shymkent", "lat": 42.3417, "lng": 69.5901, "zoom": 11 },
+      { "id": "karaganda", "lat": 49.8047, "lng": 73.1094, "zoom": 11 },
+      { "id": "aktobe", "lat": 50.2839, "lng": 57.167, "zoom": 11 },
+      { "id": "atyrau", "lat": 47.0945, "lng": 51.9238, "zoom": 11 },
+      { "id": "pavlodar", "lat": 52.2873, "lng": 76.9674, "zoom": 11 },
+      { "id": "oskemen", "lat": 49.9487, "lng": 82.6283, "zoom": 11 }
+    ],
+    "stockFreshnessDays": 7
+  }
+}

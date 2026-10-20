@@ -1,0 +1,86 @@
+[
+  {
+    "id": "hair-care",
+    "visible": true,
+    "order": 1,
+    "image": "conditioner-1",
+    "name": { "kk": "Шаш күтімі", "ru": "Уход за волосами", "en": "Hair care", "ko": "헤어 케어" },
+    "blurb": {
+      "kk": "Шампунь, кондиционер және құрғақ шампунь.",
+      "ru": "Шампуни, кондиционеры и сухие шампуни.",
+      "en": "Shampoos, conditioners and dry shampoo.",
+      "ko": "샴푸, 컨디셔너, 드라이 샴푸."
+    }
+  },
+  {
+    "id": "scalp-care",
+    "visible": true,
+    "order": 2,
+    "image": "pdrn-serum-3",
+    "name": { "kk": "Бас терісіне күтім", "ru": "Уход за кожей головы", "en": "Scalp care", "ko": "두피 케어" },
+    "blurb": {
+      "kk": "Бас терісіне арналған күнделікті күтім өнімдері.",
+      "ru": "Средства для ежедневного ухода за кожей головы.",
+      "en": "Products for a daily scalp routine.",
+      "ko": "매일의 두피 루틴을 위한 제품."
+    }
+  },
+  {
+    "id": "serums",
+    "visible": true,
+    "order": 3,
+    "image": "root-enhancer-2",
+    "name": { "kk": "Сарысулар мен концентраттар", "ru": "Сыворотки и концентраты", "en": "Serums & concentrates", "ko": "세럼 & 앰플" },
+    "blurb": {
+      "kk": "Сарысулар, ампулалар және спрейлер.",
+      "ru": "Сыворотки, ампулы и спреи.",
+      "en": "Serums, ampoules and sprays.",
+      "ko": "세럼, 앰플, 스프레이."
+    }
+  },
+  {
+    "id": "cleansing",
+    "visible": true,
+    "order": 4,
+    "image": "flatlay-1",
+    "name": { "kk": "Тазарту және эксфолиация", "ru": "Очищение и эксфолиация", "en": "Cleansing & exfoliation", "ko": "클렌징 & 각질 케어" },
+    "blurb": {
+      "kk": "Шампуньдер мен скрабтар.",
+      "ru": "Шампуни и скрабы.",
+      "en": "Shampoos and scrubs.",
+      "ko": "샴푸와 스크럽."
+    }
+  },
+  {
+    "id": "face-care",
+    "visible": false,
+    "order": 5,
+    "image": "mood-stones",
+    "name": { "kk": "Бет күтімі", "ru": "Уход за лицом", "en": "Face care", "ko": "페이스 케어" },
+    "blurb": { "kk": "", "ru": "", "en": "", "ko": "" }
+  },
+  {
+    "id": "moisturizing",
+    "visible": false,
+    "order": 6,
+    "image": "mood-stones",
+    "name": { "kk": "Ылғалдандыру", "ru": "Увлажнение", "en": "Moisturizing", "ko": "수분 케어" },
+    "blurb": { "kk": "", "ru": "", "en": "", "ko": "" }
+  },
+  {
+    "id": "sets",
+    "visible": false,
+    "order": 7,
+    "image": "group-1",
+    "name": { "kk": "Күтім жинақтары", "ru": "Наборы для ухода", "en": "Care sets", "ko": "케어 세트" },
+    "blurb": { "kk": "", "ru": "", "en": "", "ko": "" }
+  },
+  {
+    "id": "offers",
+    "visible": false,
+    "order": 8,
+    "image": "group-1",
+    "name": { "kk": "Акциялар мен жаңа өнімдер", "ru": "Акции и новинки", "en": "Offers & new arrivals", "ko": "프로모션 & 신제품" },
+    "blurb": { "kk": "", "ru": "", "en": "", "ko": "" }
+  }
+]

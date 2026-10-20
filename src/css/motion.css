@@ -1,0 +1,26 @@
+/* Motion contract: content is visible by default. Hidden start states only exist when JS is on
+   (html.js) and are lifted by app.js, or by the failsafe class if the script never arrives. */
+@media (prefers-reduced-motion: no-preference) {
+  .js [data-hero-item] { opacity: 0; transform: translateY(28px); }
+  .js [data-reveal="lift"] { opacity: 0; transform: translateY(28px); }
+  .js [data-reveal="wipe"] { opacity: 0; transform: scale(.94); }
+  .js [data-reveal].is-in { opacity: 1; transform: none; transition: opacity .9s var(--ease), transform 1.1s var(--ease); transition-delay: var(--d, 0s); }
+  .js.no-motion-js [data-hero-item], .js.no-motion-js [data-reveal] { opacity: 1; transform: none; }
+}
+[data-parallax] { will-change: transform; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
+  .wa-fab__ring { display: none; }
+}
+
+/* touch devices: no hover lifts that stick after a tap */
+@media (hover: none) {
+  .pcard:hover, .crow:hover, .btn--primary:hover, .btn--secondary:hover { transform: none; }
+  .pcard:hover .pcard__img, .ctile:hover .ctile__img, .gcard:hover .gcard__img { transform: none; }
+}
+
+@media print {
+  .site-header, .wa-fab, .menu, .search, .toast { display: none !important; }
+  body { padding-top: 0; }
+}

@@ -1,0 +1,271 @@
+[
+  {
+    "id": "rosemary-root-enhancer",
+    "slug": "rosemary-root-enhancer",
+    "brand": "AROMATICA",
+    "name": "Rosemary Root Enhancer",
+    "categories": ["scalp-care", "serums"],
+    "featured": true,
+    "order": 1,
+    "price": null,
+    "salePrice": null,
+    "stock": "unknown",
+    "volume": { "value": 100, "unit": "ml" },
+    "images": [
+      { "name": "root-enhancer-1", "view": "pack", "blend": "multiply", "focus": "50% 50%" },
+      { "name": "root-enhancer-2", "view": "dark", "blend": null, "focus": "40% 50%" },
+      { "name": "root-enhancer-3", "view": "model", "blend": null, "focus": "50% 40%" }
+    ],
+    "type": {
+      "kk": "Бас терісіне арналған спрей-күтім",
+      "ru": "Спрей для ухода за кожей головы",
+      "en": "Scalp treatment spray",
+      "ko": "두피 케어 스프레이"
+    },
+    "short": {
+      "kk": "Розмарин сериясының бас терісіне арналған күтім өнімі, аппликатор-ұшы бар. Қаптамада «Vegan formula» деп көрсетілген.",
+      "ru": "Средство розмариновой линии для ухода за кожей головы, с насадкой-аппликатором. На упаковке указано: «Vegan formula».",
+      "en": "Rosemary-line scalp care with an applicator nozzle. The packaging states “Vegan formula”.",
+      "ko": "로즈마리 라인의 두피 케어 제품으로, 어플리케이터 노즐이 달려 있습니다. 패키지에 ‘Vegan formula’라고 표기되어 있습니다."
+    },
+    "purpose": {
+      "kk": "Күнделікті бас терісіне күтім рәсіміне арналған.",
+      "ru": "Для ежедневного ухода за кожей головы.",
+      "en": "For a daily scalp-care routine.",
+      "ko": "매일의 두피 케어 루틴을 위한 제품입니다."
+    },
+    "composition": null,
+    "usage": null,
+    "precautions": null
+  },
+  {
+    "id": "rosemary-pdrn-scalp-serum",
+    "slug": "rosemary-pdrn-scalp-serum",
+    "brand": "AROMATICA",
+    "name": "Rosemary PDRN Scalp Serum",
+    "categories": ["scalp-care", "serums"],
+    "featured": true,
+    "order": 2,
+    "price": null,
+    "salePrice": null,
+    "stock": "unknown",
+    "volume": { "value": 100, "unit": "ml" },
+    "images": [
+      { "name": "pdrn-serum-1", "view": "pack", "blend": "multiply", "focus": "50% 50%" },
+      { "name": "pdrn-serum-2", "view": "pack", "blend": "multiply", "focus": "50% 45%" },
+      { "name": "pdrn-serum-3", "view": "model", "blend": null, "focus": "60% 40%" }
+    ],
+    "type": {
+      "kk": "Бас терісіне арналған сарысу",
+      "ru": "Сыворотка для кожи головы",
+      "en": "Scalp serum",
+      "ko": "두피 세럼"
+    },
+    "short": {
+      "kk": "Розмарин сериясының түтік форматындағы бас терісіне арналған сарысуы. Түтіктің ұшындағы қылшақты қондырма өнімді жағуға арналған.",
+      "ru": "Сыворотка розмариновой линии для кожи головы в тубе. Насадка с щетинками на конце предназначена для нанесения средства.",
+      "en": "Rosemary-line scalp serum in a tube. The bristled applicator tip is designed for applying the product.",
+      "ko": "튜브 타입의 로즈마리 라인 두피 세럼입니다. 끝부분의 브러시형 어플리케이터로 제품을 도포할 수 있습니다."
+    },
+    "purpose": {
+      "kk": "Бас терісіне күтім рәсіміне арналған.",
+      "ru": "Для ухода за кожей головы.",
+      "en": "For a scalp-care routine.",
+      "ko": "두피 케어 루틴을 위한 제품입니다."
+    },
+    "composition": null,
+    "usage": null,
+    "precautions": null
+  },
+  {
+    "id": "rosemary-scalp-scaling-shampoo",
+    "slug": "rosemary-scalp-scaling-shampoo",
+    "brand": "AROMATICA",
+    "name": "Rosemary Scalp Scaling Shampoo",
+    "categories": ["cleansing", "scalp-care", "hair-care"],
+    "featured": true,
+    "order": 3,
+    "price": null,
+    "salePrice": null,
+    "stock": "unknown",
+    "volume": { "value": 400, "unit": "ml" },
+    "images": [
+      { "name": "shampoo-1", "view": "flatlay", "blend": null, "focus": "40% 50%" },
+      { "name": "flatlay-1", "view": "flatlay", "blend": null, "focus": "50% 50%" },
+      { "name": "group-1", "view": "group", "blend": null, "focus": "50% 50%" }
+    ],
+    "type": {
+      "kk": "Бас терісіне арналған шампунь",
+      "ru": "Шампунь для кожи головы",
+      "en": "Scalp shampoo",
+      "ko": "두피 샴푸"
+    },
+    "short": {
+      "kk": "Розмарин сериясының бас терісін тазартуға арналған шампуні, көлемі 400 мл.",
+      "ru": "Шампунь розмариновой линии для очищения кожи головы, объём 400 мл.",
+      "en": "Rosemary-line shampoo for cleansing the scalp, 400 ml.",
+      "ko": "두피 클렌징을 위한 로즈마리 라인 샴푸, 400ml."
+    },
+    "purpose": {
+      "kk": "Бас терісі мен шашты жуу рәсіміне арналған.",
+      "ru": "Для мытья кожи головы и волос.",
+      "en": "For washing the scalp and hair.",
+      "ko": "두피와 모발을 씻는 클렌징 단계에 사용합니다."
+    },
+    "composition": null,
+    "usage": null,
+    "precautions": null
+  },
+  {
+    "id": "rosemary-hair-thickening-conditioner",
+    "slug": "rosemary-hair-thickening-conditioner",
+    "brand": "AROMATICA",
+    "name": "Rosemary Hair Thickening Conditioner",
+    "categories": ["hair-care"],
+    "featured": true,
+    "order": 4,
+    "price": null,
+    "salePrice": null,
+    "stock": "unknown",
+    "volume": { "value": 400, "unit": "ml" },
+    "images": [
+      { "name": "conditioner-1", "view": "towel", "blend": null, "focus": "55% 45%" },
+      { "name": "group-1", "view": "group", "blend": null, "focus": "85% 50%" }
+    ],
+    "type": {
+      "kk": "Шашқа арналған кондиционер",
+      "ru": "Кондиционер для волос",
+      "en": "Hair conditioner",
+      "ko": "헤어 컨디셔너"
+    },
+    "short": {
+      "kk": "Розмарин сериясының шашқа арналған кондиционері, көлемі 400 мл.",
+      "ru": "Кондиционер розмариновой линии для волос, объём 400 мл.",
+      "en": "Rosemary-line conditioner for hair, 400 ml.",
+      "ko": "로즈마리 라인 헤어 컨디셔너, 400ml."
+    },
+    "purpose": {
+      "kk": "Шашты жуғаннан кейінгі күтімге арналған.",
+      "ru": "Для ухода за волосами после мытья.",
+      "en": "For hair care after washing.",
+      "ko": "샴푸 후 모발 케어 단계에 사용합니다."
+    },
+    "composition": null,
+    "usage": null,
+    "precautions": null
+  },
+  {
+    "id": "rosemary-scalp-scrub",
+    "slug": "rosemary-scalp-scrub",
+    "brand": "AROMATICA",
+    "name": "Rosemary Scalp Scrub",
+    "categories": ["cleansing", "scalp-care"],
+    "featured": false,
+    "order": 5,
+    "price": null,
+    "salePrice": null,
+    "stock": "unknown",
+    "volume": { "value": 165, "unit": "g" },
+    "images": [
+      { "name": "scrub-1", "view": "flatlay", "blend": null, "focus": "50% 50%" },
+      { "name": "flatlay-1", "view": "flatlay", "blend": null, "focus": "75% 85%" }
+    ],
+    "type": {
+      "kk": "Бас терісіне арналған скраб",
+      "ru": "Скраб для кожи головы",
+      "en": "Scalp scrub",
+      "ko": "두피 스크럽"
+    },
+    "short": {
+      "kk": "Розмарин сериясының бас терісіне арналған скрабы, салмағы 165 г.",
+      "ru": "Скраб розмариновой линии для кожи головы, вес 165 г.",
+      "en": "Rosemary-line scrub for the scalp, 165 g.",
+      "ko": "두피용 로즈마리 라인 스크럽, 165g."
+    },
+    "purpose": {
+      "kk": "Бас терісін тазарту және эксфолиация рәсіміне арналған.",
+      "ru": "Для очищения и эксфолиации кожи головы.",
+      "en": "For scalp cleansing and exfoliation.",
+      "ko": "두피 클렌징과 각질 케어 단계에 사용합니다."
+    },
+    "composition": null,
+    "usage": null,
+    "precautions": null
+  },
+  {
+    "id": "rosemary-root-volumizing-scalp-ampoule",
+    "slug": "rosemary-root-volumizing-scalp-ampoule",
+    "brand": "AROMATICA",
+    "name": "Rosemary Root Volumizing Scalp Ampoule",
+    "categories": ["serums", "scalp-care"],
+    "featured": false,
+    "order": 6,
+    "price": null,
+    "salePrice": null,
+    "stock": "unknown",
+    "volume": { "value": 20, "unit": "ml" },
+    "images": [
+      { "name": "ampoule-1", "view": "pouch", "blend": null, "focus": "35% 80%" },
+      { "name": "flatlay-1", "view": "flatlay", "blend": null, "focus": "45% 80%" }
+    ],
+    "type": {
+      "kk": "Бас терісіне арналған ампула",
+      "ru": "Ампула для кожи головы",
+      "en": "Scalp ampoule",
+      "ko": "두피 앰플"
+    },
+    "short": {
+      "kk": "Розмарин сериясының бас терісіне арналған ампуласы, көлемі 20 мл.",
+      "ru": "Ампула розмариновой линии для кожи головы, объём 20 мл.",
+      "en": "Rosemary-line ampoule for the scalp, 20 ml.",
+      "ko": "두피용 로즈마리 라인 앰플, 20ml."
+    },
+    "purpose": {
+      "kk": "Бас терісіне күтім рәсіміне арналған концентрат.",
+      "ru": "Концентрат для ухода за кожей головы.",
+      "en": "A concentrate for a scalp-care routine.",
+      "ko": "두피 케어 루틴을 위한 앰플입니다."
+    },
+    "composition": null,
+    "usage": null,
+    "precautions": null
+  },
+  {
+    "id": "rosemary-dry-shampoo-powder",
+    "slug": "rosemary-dry-shampoo-powder",
+    "brand": "AROMATICA",
+    "name": "Rosemary Dry Shampoo Powder",
+    "categories": ["hair-care", "cleansing"],
+    "featured": false,
+    "order": 7,
+    "price": null,
+    "salePrice": null,
+    "stock": "unknown",
+    "volume": { "value": 10, "unit": "g" },
+    "images": [
+      { "name": "dry-shampoo-1", "view": "pouch", "blend": null, "focus": "50% 50%" },
+      { "name": "ampoule-1", "view": "pouch", "blend": null, "focus": "80% 30%" }
+    ],
+    "type": {
+      "kk": "Құрғақ шампунь-ұнтақ",
+      "ru": "Сухой шампунь-пудра",
+      "en": "Dry shampoo powder",
+      "ko": "드라이 샴푸 파우더"
+    },
+    "short": {
+      "kk": "Розмарин сериясының құрғақ шампунь-ұнтағы, салмағы 10 г.",
+      "ru": "Сухой шампунь-пудра розмариновой линии, вес 10 г.",
+      "en": "Rosemary-line dry shampoo powder, 10 g.",
+      "ko": "로즈마리 라인 드라이 샴푸 파우더, 10g."
+    },
+    "purpose": {
+      "kk": "Шашты су қолданбай жаңартуға арналған.",
+      "ru": "Для освежения волос без использования воды.",
+      "en": "For refreshing hair without water.",
+      "ko": "물 없이 모발을 산뜻하게 관리할 때 사용합니다."
+    },
+    "composition": null,
+    "usage": null,
+    "precautions": null
+  }
+]

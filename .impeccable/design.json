@@ -1,0 +1,342 @@
+{
+ "schemaVersion": 2,
+ "generatedAt": "2026-10-20T09:53:17Z",
+ "title": "Design System: BAYOU WELLNESS",
+ "extensions": {
+  "colorMeta": {
+   "green-primary": {
+    "role": "primary",
+    "displayName": "Brand Lime",
+    "canonical": "#58C900",
+    "tonalRamp": [
+     "#214C00",
+     "#3C8A00",
+     "#57C700",
+     "#73FF05",
+     "#95FF42",
+     "#B7FF80",
+     "#DAFFBD",
+     "#F1FFE5"
+    ]
+   },
+   "green-deep": {
+    "role": "primary",
+    "displayName": "Deep Green",
+    "canonical": "#237900",
+    "tonalRamp": [
+     "#164C00",
+     "#288A00",
+     "#3AC700",
+     "#4DFF05",
+     "#79FF42",
+     "#A4FF80",
+     "#D0FFBD",
+     "#EDFFE5"
+    ]
+   },
+   "green-light": {
+    "role": "primary",
+    "displayName": "Light Green",
+    "canonical": "#8BEA28",
+    "tonalRamp": [
+     "#274607",
+     "#467D0C",
+     "#65B512",
+     "#84E91B",
+     "#A2EE53",
+     "#C0F48B",
+     "#DEF9C3",
+     "#F2FDE8"
+    ]
+   },
+   "red-primary": {
+    "role": "secondary",
+    "displayName": "Brand Red",
+    "canonical": "#F71920",
+    "tonalRamp": [
+     "#4A0305",
+     "#850509",
+     "#C0070D",
+     "#F70E15",
+     "#F9494E",
+     "#FB8488",
+     "#FDBFC1",
+     "#FEE6E7"
+    ]
+   },
+   "red-deep": {
+    "role": "secondary",
+    "displayName": "Deep Red",
+    "canonical": "#C90012",
+    "tonalRamp": [
+     "#4C0007",
+     "#8A000C",
+     "#C70012",
+     "#FF051B",
+     "#FF4253",
+     "#FF808B",
+     "#FFBDC3",
+     "#FFE5E8"
+    ]
+   },
+   "forest": {
+    "role": "secondary",
+    "displayName": "Forest",
+    "canonical": "#153A08",
+    "tonalRamp": [
+     "#184309",
+     "#2C7911",
+     "#3FAF18",
+     "#55E123",
+     "#7EE859",
+     "#A8F08F",
+     "#D2F7C5",
+     "#EEFCE9"
+    ]
+   },
+   "sage-tile": {
+    "role": "neutral",
+    "displayName": "Sage Tile",
+    "canonical": "#E8F3DB",
+    "tonalRamp": [
+     "#283913",
+     "#486722",
+     "#689532",
+     "#87C144",
+     "#A5D071",
+     "#C2DF9F",
+     "#DFEECD",
+     "#F3F9EC"
+    ]
+   },
+   "ground": {
+    "role": "neutral",
+    "displayName": "Mineral Ground",
+    "canonical": "#F7F9F6",
+    "tonalRamp": [
+     "#242E1F",
+     "#405337",
+     "#5D7750",
+     "#7A9B69",
+     "#9AB48E",
+     "#BBCCB3",
+     "#DCE4D7",
+     "#F1F5F0"
+    ]
+   },
+   "ink": {
+    "role": "neutral",
+    "displayName": "Ink",
+    "canonical": "#202820",
+    "tonalRamp": [
+     "#222A22",
+     "#3D4D3D",
+     "#586E58",
+     "#749074",
+     "#96AB96",
+     "#B8C6B8",
+     "#DAE2DA",
+     "#F1F4F1"
+    ]
+   },
+   "ink-secondary": {
+    "role": "neutral",
+    "displayName": "Secondary Ink",
+    "canonical": "#667066",
+    "tonalRamp": [
+     "#242824",
+     "#424842",
+     "#5F685F",
+     "#7C887C",
+     "#9CA59C",
+     "#BCC2BC",
+     "#DCDFDC",
+     "#F2F3F2"
+    ]
+   }
+  },
+  "typographyMeta": {
+   "display": {
+    "displayName": "Display",
+    "purpose": "Hero heading only."
+   },
+   "headline": {
+    "displayName": "Headline",
+    "purpose": "Section and page headings."
+   },
+   "title": {
+    "displayName": "Title",
+    "purpose": "Card, step and guide titles."
+   },
+   "body": {
+    "displayName": "Body",
+    "purpose": "Paragraphs at 60 to 68ch. Onest replaces Manrope on Kazakh pages."
+   },
+   "label": {
+    "displayName": "Label",
+    "purpose": "Buttons and chips."
+   },
+   "body-kazakh": {
+    "displayName": "Body (Kazakh)",
+    "purpose": "Onest replaces Manrope on /kk/ because Manrope lacks Ә Ғ Қ Ң Ұ."
+   }
+  },
+  "shadows": [
+   {
+    "name": "shadow-1",
+    "value": "0 1px 2px rgb(21 40 8 / .06), 0 4px 12px -4px rgb(21 40 8 / .10)",
+    "purpose": "Resting cards."
+   },
+   {
+    "name": "shadow-2",
+    "value": "0 2px 4px rgb(21 40 8 / .05), 0 12px 28px -10px rgb(21 40 8 / .16), 0 28px 48px -24px rgb(21 40 8 / .14)",
+    "purpose": "Hovered and floating elements."
+   },
+   {
+    "name": "shadow-3",
+    "value": "0 4px 8px rgb(21 40 8 / .06), 0 24px 48px -16px rgb(21 40 8 / .22), 0 48px 80px -32px rgb(21 40 8 / .20)",
+    "purpose": "Hero stage, menu and search panels."
+   }
+  ],
+  "motion": [
+   {
+    "name": "ease-out-expo",
+    "value": "cubic-bezier(.16, 1, .3, 1)",
+    "purpose": "Every transition and entrance."
+   },
+   {
+    "name": "wa-wave",
+    "value": "3s cubic-bezier(.2,.6,.3,1) infinite",
+    "purpose": "WhatsApp float ripple rings, 1.5s apart."
+   }
+  ],
+  "breakpoints": [
+   {
+    "name": "sm",
+    "value": "560px"
+   },
+   {
+    "name": "md",
+    "value": "900px"
+   },
+   {
+    "name": "nav",
+    "value": "1180px"
+   },
+   {
+    "name": "cta",
+    "value": "1360px"
+   }
+  ]
+ },
+ "components": [
+  {
+   "name": "Primary Button",
+   "kind": "button",
+   "refersTo": "button-primary",
+   "description": "Lime call to action with ink text and a light bevel.",
+   "html": "<button class=\"ds-btn-primary\">Browse products</button>",
+   "css": ".ds-btn-primary{font:700 15px/1.15 Manrope,system-ui,sans-serif;min-height:48px;padding:0 22px;border-radius:999px;display:inline-flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;transition:transform .3s cubic-bezier(.16,1,.3,1),box-shadow .3s cubic-bezier(.16,1,.3,1);border:1px solid transparent;color:#12240A;background:linear-gradient(180deg,#7FDE17,#58C900 55%,#4DB300);box-shadow:inset 0 1px 0 rgb(255 255 255/.5),inset 0 -2px 0 rgb(18 90 0/.18),0 1px 2px rgb(21 60 0/.22),0 10px 20px -10px rgb(35 121 0/.6)}.ds-btn-primary:hover{transform:translateY(-2px)}.ds-btn-primary:focus-visible{outline:3px solid #237900;outline-offset:3px}.ds-btn-primary:active{transform:none;box-shadow:inset 0 2px 4px rgb(18 90 0/.25)}"
+  },
+  {
+   "name": "Secondary Button",
+   "kind": "button",
+   "refersTo": "button-secondary",
+   "description": "White outline button for the second action.",
+   "html": "<button class=\"ds-btn-secondary\">Partner map</button>",
+   "css": ".ds-btn-secondary{font:700 15px/1.15 Manrope,system-ui,sans-serif;min-height:48px;padding:0 22px;border-radius:999px;display:inline-flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;transition:transform .3s cubic-bezier(.16,1,.3,1),box-shadow .3s cubic-bezier(.16,1,.3,1);color:#202820;background:#fff;border:1px solid rgb(32 40 32/.22)}.ds-btn-secondary:hover{border-color:#237900;transform:translateY(-2px)}.ds-btn-secondary:focus-visible{outline:3px solid #237900;outline-offset:3px}"
+  },
+  {
+   "name": "Filter Chip",
+   "kind": "chip",
+   "refersTo": "chip",
+   "description": "Category filter; the active chip turns forest green.",
+   "html": "<button class=\"ds-chip is-active\">All <span>7</span></button> <button class=\"ds-chip\">Scalp care <span>5</span></button>",
+   "css": ".ds-chip{font:600 14px/1 Manrope,system-ui,sans-serif;min-height:44px;padding:0 16px;border-radius:999px;border:1px solid #E2E8DF;background:#fff;color:#202820;display:inline-flex;gap:8px;align-items:center;cursor:pointer}.ds-chip span{font-size:12px;opacity:.7}.ds-chip:hover{border-color:#237900}.ds-chip.is-active{background:#153A08;border-color:#153A08;color:#fff}.ds-chip:focus-visible{outline:3px solid #237900;outline-offset:3px}"
+  },
+  {
+   "name": "Search Field",
+   "kind": "input",
+   "refersTo": "field",
+   "description": "Pill field with a Deep Green focus halo.",
+   "html": "<input class=\"ds-field\" placeholder=\"Product name\">",
+   "css": ".ds-field{width:100%;min-height:52px;padding:0 18px;border:1.5px solid #84917F;border-radius:999px;background:#fff;color:#202820;font:500 16px/1.4 Manrope,system-ui,sans-serif}.ds-field::placeholder{color:#6B756B}.ds-field:hover{border-color:#667066}.ds-field:focus{outline:none;border-color:#237900;box-shadow:0 0 0 4px rgb(88 201 0/.22)}"
+  },
+  {
+   "name": "Product Card",
+   "kind": "card",
+   "refersTo": "product-card",
+   "description": "White card with a sage photo tile, price note and two actions.",
+   "html": "<article class=\"ds-card\"><div class=\"ds-card-img\"></div><div class=\"ds-card-body\"><h3>Rosemary Root Enhancer</h3><p>Scalp treatment spray, 100 ml</p><strong>Price on request</strong></div></article>",
+   "css": ".ds-card{width:260px;background:#fff;border:1px solid #E2E8DF;border-radius:20px;overflow:hidden;box-shadow:0 1px 2px rgb(21 40 8/.06),0 4px 12px -4px rgb(21 40 8/.10);font-family:Manrope,system-ui,sans-serif;color:#202820}.ds-card-img{aspect-ratio:4/5;background:linear-gradient(180deg,#E8F3DB,#D3E8BE)}.ds-card-body{padding:14px 16px 18px;display:grid;gap:6px}.ds-card h3{margin:0;font:700 17px/1.3 Montserrat,system-ui,sans-serif;letter-spacing:-.015em}.ds-card p{margin:0;color:#667066;font-size:14px}.ds-card strong{font-size:15px}"
+  },
+  {
+   "name": "Navigation Link",
+   "kind": "nav",
+   "refersTo": "band-dark",
+   "description": "Desktop nav link; the current page sits in a sage pill.",
+   "html": "<nav class=\"ds-nav\"><a href=\"#\" aria-current=\"page\">Catalog</a><a href=\"#\">Guides</a><a href=\"#\">Partner map</a></nav>",
+   "css": ".ds-nav{display:flex;gap:2px;font-family:Manrope,system-ui,sans-serif}.ds-nav a{min-height:44px;padding:0 12px;display:inline-flex;align-items:center;border-radius:999px;color:#202820;font-weight:700;font-size:15px;text-decoration:none}.ds-nav a:hover{background:rgb(88 201 0/.16)}.ds-nav a[aria-current]{background:#E8F3DB;color:#237900}.ds-nav a:focus-visible{outline:3px solid #237900;outline-offset:3px}"
+  },
+  {
+   "name": "WhatsApp Float",
+   "kind": "custom",
+   "refersTo": "button-primary",
+   "description": "Glossy green disc with a yellow and a green ripple ring and a periodic shake.",
+   "html": "<span class=\"ds-wa\"><i class=\"ds-wa-r y\"></i><i class=\"ds-wa-r g\"></i><b class=\"ds-wa-b\"></b></span>",
+   "css": ".ds-wa{position:relative;display:inline-block;width:60px;height:60px;margin:40px}.ds-wa-b{position:relative;z-index:2;display:block;width:60px;height:60px;border-radius:50%;background:radial-gradient(circle at 32% 24%,#A6F64A,#58C900 46%,#2E9200);box-shadow:inset 0 2px 0 rgb(255 255 255/.55),inset 0 -5px 9px rgb(14 74 0/.35),0 14px 26px -8px rgb(35 121 0/.65)}.ds-wa-r{position:absolute;inset:0;border-radius:50%;opacity:0;animation:dswa 3s cubic-bezier(.2,.6,.3,1) infinite}.ds-wa-r.y{border:3px solid rgb(255 210 31/.9);background:rgb(255 210 31/.2)}.ds-wa-r.g{border:3px solid rgb(88 201 0/.9);background:rgb(88 201 0/.2);animation-delay:1.5s}@keyframes dswa{0%{transform:scale(1);opacity:.9}100%{transform:scale(2.35);opacity:0}}@media (prefers-reduced-motion:reduce){.ds-wa-r{display:none}}"
+  }
+ ],
+ "narrative": {
+  "northStar": "The Botanical Clean Lab",
+  "overview": "The brand's glossy red-and-green logo is the only loud object on the page. Everything else is a calm, mineral-white ground that real photography lights up. Green leads; red punctuates and never shares a large area with green. Dark forest bands carry the partner map, the B2B offer and the footer. The phone is the primary screen.",
+  "keyCharacteristics": [
+   "Bright ground, sage tiles, forest bands; one saturated lime for action.",
+   "Real product photography only; white-background packs multiply into sage tiles.",
+   "Montserrat headings with tight tracking over a clean body face (Onest for Kazakh).",
+   "Pills for controls, 20px for cards, an arch frame for the hero product.",
+   "One authored motion moment; everything else is still or reveals once."
+  ],
+  "rules": [
+   {
+    "name": "The Lime-Needs-Ink Rule",
+    "body": "Text on the brand lime is ink, never white.",
+    "section": "colors"
+   },
+   {
+    "name": "The Never-Equal Rule",
+    "body": "Red and green never share a large area at similar weight.",
+    "section": "colors"
+   },
+   {
+    "name": "The Four-Script Rule",
+    "body": "Every string must render in all four languages without a fallback glyph.",
+    "section": "typography"
+   },
+   {
+    "name": "The No-Eyebrow Rule",
+    "body": "Headings carry their own weight; no small uppercase label sits above a heading.",
+    "section": "typography"
+   },
+   {
+    "name": "The Light-Bevel Rule",
+    "body": "The only skeuomorphism is a light bevel on lime buttons and the WhatsApp float.",
+    "section": "elevation"
+   }
+  ],
+  "dos": [
+   "Do put ink text on lime and white text only on Deep Green, Forest or Deep Red.",
+   "Do multiply white-background pack shots into the sage tile.",
+   "Do keep every control at least 44px with hover, focus-visible and active states.",
+   "Do animate only transform and opacity with an exponential ease-out.",
+   "Do keep prices, stock, partners and product facts in the content files."
+  ],
+  "donts": [
+   "Don't use gradient text, decorative glass, glow, or hard offset shadows.",
+   "Don't place a small label above a heading or number the sections.",
+   "Don't use transition: all, a 100vw width, or touch-action that blocks vertical scrolling.",
+   "Don't show unverified partners, invent product facts, or make medical promises.",
+   "Don't use red and green at equal weight in the same large area."
+  ]
+ }
+}
